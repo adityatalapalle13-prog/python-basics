@@ -1,1 +1,1 @@
-prinnt("Hello Githb")
+prinnt("Second update")
